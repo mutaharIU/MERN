@@ -222,9 +222,4 @@
 // }
 // console.log(prime_num(3));
 
-var arr1 = [4,3,6];
-var arr2 = [1,2,3]; 
-
-var arr3 = [...arr1,...arr2];
-console.log(arr3.sort());
 
